@@ -1,0 +1,6 @@
+# Soft-Launch. Jede Seite trägt <meta name="robots" content="noindex, nofollow,
+# noarchive">. Das Crawlen bleibt bewusst erlaubt: ein Disallow hielte
+# Suchmaschinen davon ab, genau diese Anweisung zu lesen, und die Adresse
+# könnte ohne Inhalt trotzdem im Index landen.
+User-agent: *
+Allow: /

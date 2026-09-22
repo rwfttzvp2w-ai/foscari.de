@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Heufelder;Maximilian;;;
+FN:Maximilian Heufelder
+ORG:Foscari Partners GmbH
+TITLE:Co-Founder
+TEL;TYPE=CELL,VOICE:+491733423541
+EMAIL;TYPE=INTERNET,PREF:maximilian.heufelder@foscari.de
+ADR;TYPE=WORK:;;Mauerkircherstr. 22;München;;81679;Deutschland
+URL:https://foscari.de
+REV:2026-09-21T00:00:00Z
+END:VCARD
