@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Strixner;Roland;;;
+FN:Roland Strixner
+ORG:Foscari Partners GmbH
+TITLE:Co-Founder
+TEL;TYPE=CELL,VOICE:+4915679811690
+EMAIL;TYPE=INTERNET,PREF:roland.strixner@foscari.de
+ADR;TYPE=WORK:;;Mauerkircherstr. 22;München;;81679;Deutschland
+URL:https://foscari.de
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/roland-strixner-a
+ 8590147/
+REV:2026-09-21T00:00:00Z
+END:VCARD
